@@ -32,6 +32,7 @@ Listen to some samples!
 5. The custom waveform can be done selecting each harmonic individually. You can choose between 16, 32 or 64 harmonics.
 6. Global parameters: pitch transposition, panning, global time strech for envelopes, tone.
 7. You can save and load presets. Also there's a little keyboard integrated for rapid tests.
+8. It's polyphonic! You can toggle up to 10 parallel voices.
 
 ### Installation
 
