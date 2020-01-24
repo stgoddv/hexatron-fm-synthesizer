@@ -8,8 +8,7 @@ Open source 6 operator fm synthesizer for max msp.
 
 Listen to some samples!
 
-* Sound Sample 1
-* Sound Sample 2
+* [Example.mp3](https://raw.githubusercontent.com/stgoddv/hexatron-fm-synthesizer/master/static/example.mp3)
 
 # Table of Contents
 1. [Motivation](#motivation)
