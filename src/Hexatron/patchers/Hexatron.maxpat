@@ -58,8 +58,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "bang" ],
-					"patching_rect" : [ 341.5, 739.0, 136.0, 23.0 ],
-					"text" : "buffer~ recme 100000"
+					"patching_rect" : [ 341.5, 739.0, 129.0, 23.0 ],
+					"text" : "buffer~ recme 60000"
 				}
 
 			}

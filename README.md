@@ -21,6 +21,7 @@ Listen to some samples!
 
 ### Motivation
 
+I've always like the sound of Max MSP so I decided to build my own 6 FM Operator, both to learn about synthesis and to use it in my own compositions.
 
 ### Features
 
@@ -36,13 +37,21 @@ Listen to some samples!
 
 ### Installation
 
+To try quickly:  
 
+Simply go to src/Hexatron and open the file called Hexatron.maxproj
 
+Permanent installation:  
 
+1. Download repository
+2. Put folder in your Max 8 path
+3. Create a bpatcher called "6FM"
 
 ### Roadmap
 
-
+* Add panning for each independent operator
+* Optimize
+* Add basic filter at main output
 
 ### Contributions
 
