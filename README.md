@@ -6,9 +6,10 @@ Open source 6 operator fm synthesizer for max msp.
 
 ![harmonic selection](https://github.com/stgoddv/hexatron-fm-synthesizer/blob/master/static/preview2.PNG?raw=true)
 
-Listen to some samples!
+Listen to some samples!  
+(Press right click and then "save link as..." to download the file)
 
-* [Example.mp3](https://raw.githubusercontent.com/stgoddv/hexatron-fm-synthesizer/master/static/example.mp3)
+* [Example.mp3](https://raw.githubusercontent.com/stgoddv/hexatron-fm-synthesizer/master/static/example.mp3) 
 
 # Table of Contents
 1. [Motivation](#motivation)
