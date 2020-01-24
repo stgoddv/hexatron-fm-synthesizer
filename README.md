@@ -1,6 +1,7 @@
 # Hexatron FM Synthesizer
 
-Open source 6 operator fm synthesizer for max msp.
+Open source 6 operator fm synthesizer for max msp.  
+开源6运算符fm合成器，用于max msp。
 
 ![amplitude envelopes](https://github.com/stgoddv/hexatron-fm-synthesizer/blob/master/static/preview1.PNG?raw=true)
 
